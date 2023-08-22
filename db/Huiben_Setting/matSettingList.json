@@ -1,0 +1,2674 @@
+[{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ba"
+  },
+  "speed": 1,
+  "matName": "db_boy",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1.051807,
+  "height": 1.906634
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856bb"
+  },
+  "speed": 1,
+  "matName": "db_girl",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1.103615,
+  "height": 1.803019
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856bc"
+  },
+  "speed": 1,
+  "matName": "db_father",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1.129519,
+  "height": 3.150017
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856bd"
+  },
+  "speed": 1,
+  "matName": "db_mother",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1.414461,
+  "height": 3.072306
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856be"
+  },
+  "speed": 1,
+  "matName": "db_grandpa",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856bf"
+  },
+  "speed": 1,
+  "matName": "db_grandma",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c0"
+  },
+  "speed": 1,
+  "matName": "db_rabbit",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c1"
+  },
+  "speed": 1,
+  "matName": "db_elf",
+  "initScale": [
+    104,
+    104,
+    104
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "sky"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c2"
+  },
+  "speed": 1,
+  "matName": "db_bookManager",
+  "initScale": [
+    -64,
+    64,
+    64
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c3"
+  },
+  "speed": 1,
+  "matName": "db_police",
+  "initScale": [
+    -72,
+    72,
+    72
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c4"
+  },
+  "speed": 1,
+  "matName": "db_teacher",
+  "initScale": [
+    -72,
+    72,
+    72
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c5"
+  },
+  "speed": 1,
+  "matName": "db_doctor",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c6"
+  },
+  "speed": 1,
+  "matName": "dog",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c7"
+  },
+  "speed": 1,
+  "matName": "rabbit",
+  "initScale": [
+    -64,
+    64,
+    64
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c8"
+  },
+  "speed": 1,
+  "matName": "cuteDeer3D",
+  "initScale": [
+    880,
+    880,
+    880
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856c9"
+  },
+  "speed": 1,
+  "matName": "cuteTiger3D",
+  "initScale": [
+    640,
+    640,
+    640
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ca"
+  },
+  "speed": 0,
+  "matName": "Apple",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856cb"
+  },
+  "speed": 0,
+  "matName": "Banana",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856cc"
+  },
+  "speed": 0,
+  "matName": "Pear",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856cd"
+  },
+  "speed": 0,
+  "matName": "Grapes",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ce"
+  },
+  "speed": 0,
+  "matName": "Green apple",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856cf"
+  },
+  "speed": 0,
+  "matName": "Carrot",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d0"
+  },
+  "speed": 0,
+  "matName": "Corn",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d1"
+  },
+  "speed": 0,
+  "matName": "Eggplant",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d2"
+  },
+  "speed": 0,
+  "matName": "Pepper",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d3"
+  },
+  "speed": 0,
+  "matName": "Lemon",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d4"
+  },
+  "speed": 0,
+  "matName": "Mango",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d5"
+  },
+  "speed": 0,
+  "matName": "Pineapple",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d6"
+  },
+  "speed": 0,
+  "matName": "Tangerine",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d7"
+  },
+  "speed": 0,
+  "matName": "Watermelon",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d8"
+  },
+  "speed": 0,
+  "matName": "Cherry",
+  "initScale": [
+    8,
+    8,
+    8
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856d9"
+  },
+  "speed": 0,
+  "matName": "Cucumber",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856da"
+  },
+  "speed": 0,
+  "matName": "Onion",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856db"
+  },
+  "speed": 0,
+  "matName": "Orange",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856dc"
+  },
+  "speed": 0,
+  "matName": "Pitahaya",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856dd"
+  },
+  "speed": 0,
+  "matName": "Tomato",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856de"
+  },
+  "speed": 0,
+  "matName": "Flower",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856df"
+  },
+  "speed": 0,
+  "matName": "Flower_hand",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e0"
+  },
+  "speed": 0,
+  "matName": "Cake",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e1"
+  },
+  "speed": 1,
+  "matName": "Bumble3D",
+  "initScale": [
+    56,
+    56,
+    56
+  ],
+  "initRotation": [
+    0,
+    130,
+    0
+  ],
+  "classList": [
+    "character",
+    "sky"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e2"
+  },
+  "speed": 1,
+  "matName": "Butterfly3D",
+  "initScale": [
+    88,
+    88,
+    88
+  ],
+  "initRotation": [
+    0,
+    130,
+    0
+  ],
+  "classList": [
+    "character",
+    "sky"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e3"
+  },
+  "speed": 1,
+  "matName": "Alpaca",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e4"
+  },
+  "speed": 1,
+  "matName": "Alpaca baby",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e5"
+  },
+  "speed": 1,
+  "matName": "Bull",
+  "initScale": [
+    -96,
+    96,
+    96
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e6"
+  },
+  "speed": 1,
+  "matName": "Bull baby",
+  "initScale": [
+    -96,
+    96,
+    96
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e7"
+  },
+  "speed": 1,
+  "matName": "Chicken baby",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e8"
+  },
+  "speed": 1,
+  "matName": "ChickenA",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856e9"
+  },
+  "speed": 1,
+  "matName": "ChickenB",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ea"
+  },
+  "speed": 1,
+  "matName": "Cow",
+  "initScale": [
+    -96,
+    96,
+    96
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856eb"
+  },
+  "speed": 1,
+  "matName": "Cow baby",
+  "initScale": [
+    -96,
+    96,
+    96
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ec"
+  },
+  "speed": 1,
+  "matName": "Duck baby",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ed"
+  },
+  "speed": 1,
+  "matName": "DuckA",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ee"
+  },
+  "speed": 1,
+  "matName": "DuckB",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ef"
+  },
+  "speed": 1,
+  "matName": "Goat",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f0"
+  },
+  "speed": 1,
+  "matName": "Goat baby",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f1"
+  },
+  "speed": 1,
+  "matName": "PigA",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f2"
+  },
+  "speed": 1,
+  "matName": "Pig babyA",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f3"
+  },
+  "speed": 1,
+  "matName": "PigB",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f4"
+  },
+  "speed": 1,
+  "matName": "Pig babyB",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f5"
+  },
+  "speed": 1,
+  "matName": "PigC",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f6"
+  },
+  "speed": 1,
+  "matName": "Pig babyC",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f7"
+  },
+  "speed": 1,
+  "matName": "Sheep",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f8"
+  },
+  "speed": 1,
+  "matName": "Sheep baby",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856f9"
+  },
+  "speed": 1,
+  "matName": "cuteBear3D",
+  "initScale": [
+    560,
+    560,
+    560
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856fa"
+  },
+  "speed": 1,
+  "matName": "cuteChipmunk3D",
+  "initScale": [
+    800,
+    800,
+    800
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856fb"
+  },
+  "speed": 1,
+  "matName": "cuteElephant3D",
+  "initScale": [
+    560,
+    560,
+    560
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856fc"
+  },
+  "speed": 1,
+  "matName": "cuteFox3D",
+  "initScale": [
+    400,
+    400,
+    400
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856fd"
+  },
+  "speed": 1,
+  "matName": "cuteHorse3D",
+  "initScale": [
+    720,
+    720,
+    720
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856fe"
+  },
+  "speed": 1,
+  "matName": "cuteLion3D",
+  "initScale": [
+    800,
+    800,
+    800
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db856ff"
+  },
+  "speed": 1,
+  "matName": "cuteMonkey3D",
+  "initScale": [
+    480,
+    480,
+    480
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85700"
+  },
+  "speed": 1,
+  "matName": "cuteTurtle3D",
+  "initScale": [
+    400,
+    400,
+    400
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "water"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85701"
+  },
+  "speed": 1,
+  "matName": "cuteGiraffe3D",
+  "initScale": [
+    960,
+    960,
+    960
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85702"
+  },
+  "speed": 1,
+  "matName": "cuteFlamingo3D",
+  "initScale": [
+    400,
+    400,
+    400
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85703"
+  },
+  "speed": 1,
+  "matName": "cutePeacock3D",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85704"
+  },
+  "speed": 1,
+  "matName": "cuteDog3D",
+  "initScale": [
+    400,
+    400,
+    400
+  ],
+  "initRotation": [
+    0,
+    150,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85705"
+  },
+  "speed": 1,
+  "matName": "cuteCat3D",
+  "initScale": [
+    400,
+    400,
+    400
+  ],
+  "initRotation": [
+    0,
+    150,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85706"
+  },
+  "speed": 1,
+  "matName": "Eagle3D",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    150,
+    0
+  ],
+  "classList": [
+    "character",
+    "sky"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85707"
+  },
+  "speed": 1,
+  "matName": "Swallow3D",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "sky"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85708"
+  },
+  "speed": 1,
+  "matName": "Penguin3D",
+  "initScale": [
+    56,
+    56,
+    56
+  ],
+  "initRotation": [
+    0,
+    150,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85709"
+  },
+  "speed": 1,
+  "matName": "Parrot3D",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    150,
+    0
+  ],
+  "classList": [
+    "character",
+    "sky"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8570a"
+  },
+  "speed": 1,
+  "matName": "Arowana3D",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    120,
+    0
+  ],
+  "classList": [
+    "character",
+    "water"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8570b"
+  },
+  "speed": 1,
+  "matName": "Goose3D",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    130,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8570c"
+  },
+  "speed": 1,
+  "matName": "DuckBlack3D",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    130,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8570d"
+  },
+  "speed": 1,
+  "matName": "DuckWhite3D",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    130,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8570e"
+  },
+  "speed": 1,
+  "matName": "DuckYellow3D",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    130,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8570f"
+  },
+  "speed": 0,
+  "matName": "Balloon",
+  "initScale": [
+    48,
+    48,
+    48
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85710"
+  },
+  "speed": 0,
+  "matName": "Balloons",
+  "initScale": [
+    16,
+    16,
+    16
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85711"
+  },
+  "speed": 0,
+  "matName": "Sun",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85712"
+  },
+  "speed": 0,
+  "matName": "Vat",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85713"
+  },
+  "speed": 0,
+  "matName": "Boat",
+  "initScale": [
+    32,
+    32,
+    32
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85714"
+  },
+  "speed": 0,
+  "matName": "MedicineBottle",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85715"
+  },
+  "speed": 0,
+  "matName": "Preball",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85716"
+  },
+  "speed": 0,
+  "matName": "Pumpkin",
+  "initScale": [
+    56,
+    56,
+    56
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85717"
+  },
+  "speed": 1,
+  "matName": "MagicBroom",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85718"
+  },
+  "speed": 1,
+  "matName": "Book",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db85719"
+  },
+  "speed": 1,
+  "matName": "Present",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8571a"
+  },
+  "speed": 1,
+  "matName": "BirthdayHat",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8571b"
+  },
+  "speed": 1,
+  "matName": "ChoCake",
+  "initScale": [
+    48,
+    48,
+    48
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8571c"
+  },
+  "speed": 1,
+  "matName": "StrawCake",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8571d"
+  },
+  "speed": 1,
+  "matName": "WhiteHat",
+  "initScale": [
+    20,
+    20,
+    20
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63d9f11af7bd76644db8571e"
+  },
+  "speed": 1,
+  "matName": "ColorBar",
+  "initScale": [
+    48,
+    48,
+    48
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63df147398d43c1a95fe0595"
+  },
+  "speed": 0,
+  "matName": "fence",
+  "initScale": [
+    40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63fd62ff5983056438f40108"
+  },
+  "speed": 1,
+  "matName": "db_frog",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "63fd6eaa5983056438f4011e"
+  },
+  "speed": 1,
+  "matName": "db_turtle",
+  "initScale": [
+    -60,
+    60,
+    60
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1.051807,
+  "height": 1.906634
+},{
+  "_id": {
+    "$oid": "6401f7ef8d0d8e71cd53ad99"
+  },
+  "speed": 1,
+  "matName": "db_fox",
+  "initScale": [
+    -70,
+    70,
+    70
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6401fc938d0d8e71cd53ad9d"
+  },
+  "speed": 1,
+  "matName": "db_donkey",
+  "initScale": [
+    -60,
+    60,
+    60
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6406c77cbe4f3c32237103c5"
+  },
+  "speed": 1,
+  "matName": "db_tiger",
+  "initScale": [
+    -70,
+    70,
+    70
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1.051807,
+  "height": 1.906634
+},{
+  "_id": {
+    "$oid": "640e8c1a0fccd148f3d5e896"
+  },
+  "speed": 0,
+  "matName": "BearDoll",
+  "initScale": [
+    30,
+    30,
+    30
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "640ec57a0fccd148f3d5e89c"
+  },
+  "speed": 0,
+  "matName": "WaterFountain",
+  "initScale": [
+    30,
+    30,
+    30
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "env_prop"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6422c6ccc63e172170e1b4ac"
+  },
+  "speed": 1,
+  "matName": "db_sheep",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6422c6e0c63e172170e1b4ad"
+  },
+  "speed": 1,
+  "matName": "db_bear",
+  "initScale": [
+    -100,
+    100,
+    100
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6422c6f2c63e172170e1b4ae"
+  },
+  "speed": 1,
+  "matName": "db_wolf",
+  "initScale": [
+    -80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6422d410c63e172170e1b4d2"
+  },
+  "speed": 1,
+  "matName": "db_whiteDuck",
+  "initScale": [
+    -40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6422d41cc63e172170e1b4d3"
+  },
+  "speed": 1,
+  "matName": "db_blackDuck",
+  "initScale": [
+    -40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6422d42bc63e172170e1b4d4"
+  },
+  "speed": 1,
+  "matName": "db_greenDuck",
+  "initScale": [
+    -40,
+    40,
+    40
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "642515135d3ee856a2ddc4bb"
+  },
+  "speed": 1,
+  "matName": "temp_bang",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6425162d5d3ee856a2ddc4bc"
+  },
+  "speed": 1,
+  "matName": "temp_daxing",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6425163a5d3ee856a2ddc4bd"
+  },
+  "speed": 1,
+  "matName": "temp_fangzi",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "642516455d3ee856a2ddc4be"
+  },
+  "speed": 1,
+  "matName": "temp_hema",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "642516525d3ee856a2ddc4bf"
+  },
+  "speed": 1,
+  "matName": "temp_ma",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6425165e5d3ee856a2ddc4c0"
+  },
+  "speed": 1,
+  "matName": "temp_maotou",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "6425166c5d3ee856a2ddc4c1"
+  },
+  "speed": 1,
+  "matName": "temp_taidi",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+},{
+  "_id": {
+    "$oid": "642516775d3ee856a2ddc4c3"
+  },
+  "speed": 1,
+  "matName": "temp_yu",
+  "initScale": [
+    80,
+    80,
+    80
+  ],
+  "initRotation": [
+    0,
+    0,
+    0
+  ],
+  "classList": [
+    "character",
+    "ground",
+    "dis"
+  ],
+  "width": 1,
+  "height": 1
+}]

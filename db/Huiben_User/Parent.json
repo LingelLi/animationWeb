@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "63d75554ef073b4cbd9b2533"
+  },
+  "device_id": "2333",
+  "par_phone": "12345678901",
+  "par_children": [
+    "20202020"
+  ]
+},{
+  "_id": {
+    "$oid": "63d7555aef073b4cbd9b2535"
+  },
+  "device_id": "2333",
+  "par_phone": "aa",
+  "par_children": [
+    "bb"
+  ]
+},{
+  "_id": {
+    "$oid": "63ed8771bd5623d8d48002f2"
+  },
+  "device_id": "0bd661c14f5f43dede066271aa04b1bc",
+  "par_phone": "13916934760",
+  "par_children": [
+    "0327",
+    "20220327",
+    "27"
+  ]
+},{
+  "_id": {
+    "$oid": "63f5857138316c254cd950c5"
+  },
+  "device_id": "c344fd1bfab0d7ac5fe9331b2299ae12",
+  "par_phone": "13818551397",
+  "par_children": [
+    "27"
+  ]
+},{
+  "_id": {
+    "$oid": "64031c4bfaadb9f897d6ee86"
+  },
+  "device_id": "0d3fd8e665e829b37a872edbb3cb4f34",
+  "par_phone": "13004154737",
+  "par_children": [
+    "10001",
+    "20220401"
+  ]
+},{
+  "_id": {
+    "$oid": "6406a75f4a6dc87f8afb7cbd"
+  },
+  "device_id": "c692012fe10f1ab24b0efd40b124c807",
+  "par_phone": "13007239653",
+  "par_children": [
+    "20230101",
+    "20220102"
+  ]
+},{
+  "_id": {
+    "$oid": "6406aa4c1e18513a48ded5c5"
+  },
+  "device_id": "5adec692a2aca28873c491402e7a0020",
+  "par_phone": "17767109840",
+  "par_children": [
+    "20220101",
+    "20220102"
+  ]
+}]

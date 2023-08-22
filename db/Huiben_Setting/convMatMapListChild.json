@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "63d9e51df7bd76644db855a6"
+  },
+  "mapName": "ActionMap",
+  "contentList": []
+},{
+  "_id": {
+    "$oid": "63d9e51df7bd76644db855a7"
+  },
+  "mapName": "ObjectMap",
+  "contentList": [
+    {
+      "keyNameList": [
+        [
+          "莎莎"
+        ]
+      ],
+      "valName": "白鸭",
+      "bookName": "莎莎的栅栏"
+    },
+    {
+      "keyNameList": [
+        [
+          "噗噗"
+        ]
+      ],
+      "valName": "黑鸭",
+      "bookName": "莎莎的栅栏"
+    },
+    {
+      "keyNameList": [
+        [
+          "噜噜"
+        ]
+      ],
+      "valName": "绿鸭",
+      "bookName": "莎莎的栅栏"
+    },
+    {
+      "keyNameList": [
+        [
+          "知恩"
+        ]
+      ],
+      "valName": "女孩",
+      "bookName": "全身痒痒"
+    },
+    {
+      "keyNameList": [
+        [
+          "知恩"
+        ]
+      ],
+      "valName": "女孩",
+      "bookName": "全身痒痒"
+    },
+    {
+      "keyNameList": [
+        [
+          "主人"
+        ]
+      ],
+      "valName": "爸爸",
+      "bookName": "聪明的驴"
+    },
+    {
+      "keyNameList": [
+        [
+          "小熊可可",
+          "可可"
+        ]
+      ],
+      "valName": "小熊",
+      "bookName": "小熊可可"
+    },
+    {
+      "keyNameList": [
+        [
+          "一个人",
+          "猎人",
+          "人们",
+          "有人"
+        ]
+      ],
+      "valName": "爸爸",
+      "bookName": "其他"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d9e51df7bd76644db855a8"
+  },
+  "mapName": "BkgMap",
+  "contentList": [
+    {
+      "keyNameList": [
+        [
+          "池塘"
+        ]
+      ],
+      "valName": "池塘",
+      "bookName": "莎莎的栅栏"
+    }
+  ]
+}]

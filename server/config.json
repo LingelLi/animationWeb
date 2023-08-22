@@ -1,0 +1,8 @@
+{
+    "MongoDB Address": "127.0.0.1:27017",
+    "Upload Dir": "./server/uploads",
+    "Upload URL": "/uploads",
+    "Target Dir": "./server/fake_uploads",
+    "Target URL": "/fake_uploads",
+    "Port": 3001
+}

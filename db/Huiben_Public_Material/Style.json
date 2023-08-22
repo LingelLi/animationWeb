@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "63d5dc4687fb643c2e765d0f"
+  },
+  "StyleName": "默认",
+  "StyleId": "0"
+},{
+  "_id": {
+    "$oid": "63d5dc8687fb643c2e765d11"
+  },
+  "StyleName": "手绘风格",
+  "StyleId": "1"
+}]
